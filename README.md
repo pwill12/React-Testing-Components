@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Testing the Components
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This is a Simple React Test with react-testing libray and jest
 
 ## Available Scripts
 
